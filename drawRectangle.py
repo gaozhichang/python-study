@@ -1,3 +1,6 @@
+'''
+在图片上上标注矩形框
+'''
 import requests
 import base64
 import json
